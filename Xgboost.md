@@ -11,3 +11,7 @@
 ## What are the advantages of GBMs?
 ### High Accuracy: GBMs excel in terms of predictive accuracy, making them suitable for applications where precision is critical. 
 ### Handling Non-linearity: They can capture complex and non-linear relationships within data, making them versatile for various modeling tasks.
+
+## Why GBM is better than XGBoost?
+### Light GBM is very fast when compared to XGBOOST and is a much better approach when dealing with large datasets. 
+### This turns out to be a huge advantage when you are working on large datasets in limited time competitions.
