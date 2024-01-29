@@ -16,3 +16,12 @@
 ### Light GBM is very fast when compared to XGBOOST and is a much better approach when dealing with large datasets. 
 ### This turns out to be a huge advantage when you are working on large datasets in limited time competitions.
 ### XGBoost is built to manage huge datasets very efficiently.
+
+## What is DGC matrix?
+### The dgCMatrix class is a class of sparse numeric matrices in the compressed, sparse, column-oriented format. 
+### In this implementation the non-zero elements in the columns are sorted into increasing row order. 
+### dgCMatrix is the “standard” class for sparse numeric matrices in the Matrix package.
+
+## What is the difference between dgTMatrix and dgCMatrix?
+### dgTMatrix : a general sparse matrix of doubles, in triplet representation. 
+### dgCMatrix : a general sparse matrix of doubles, in CSC representation.
